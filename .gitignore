@@ -15,3 +15,9 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Ignore application configuration
+/config/application.yml
+
+# Ignore Google API file
+/config/client_secret_1048792030713-sgrg7ghdct07geq9b3vti43qsk7mmmc1.apps.googleusercontent.com.json
